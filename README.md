@@ -28,12 +28,8 @@
 I love collaborating with other developers and always eager to learn new technology and ideas.
 
 <p>
-  <a href="https://twitter.com/kristianrxd"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/kristianroopnarine/">
+  <a href="https://www.linkedin.com/in/monikaydv/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC6NksBtlMdZeksyq3dMK-Ow">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
