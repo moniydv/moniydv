@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hey, welcome to my GitHub!
 <p>
   I am a Full Stack developer with proven track record of delivering large scale web applications in Web application security, Telecom and Biotech domains. I have more than 8 years' experience specialized in frontend and backend development for complex scalable web apps. 
 </p>
