@@ -17,6 +17,7 @@ Senior Software Developer | 12+ years building enterprise-grade web applications
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt=".Net" src="ttps://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -29,19 +30,22 @@ Senior Software Developer | 12+ years building enterprise-grade web applications
   <img alt="ElasticSearch" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   
+</p>
+
+### Blogs
+<p>
+  <a href="https://medium.com/@moniydv">
+    Go to my website
+  </a>
+  to explore my latest blogs where I share knowledge, ideas, and personal experiences.
 </p>
 
 ### Contact
 
-I love collaborating with other developers and always eager to learn new technology and ideas.
+I love collaborating with other developers and am always eager to learn new technologies and ideas. Feel free to connect with me on LinkedIn!
 
-<p>
-  <a href="https://www.linkedin.com/in/monikaydv/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/monikaydv/)
 
 <!--
 **moniydv/moniydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
