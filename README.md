@@ -27,7 +27,6 @@
 </p>  
 
 ---
-
 ## **Blogs**  
 
 📖 [**Explore My Blogs**](https://medium.com/@moniydv)  
@@ -37,9 +36,11 @@ Dive into my latest blogs where I share **knowledge**, **ideas**, and **personal
 
 ## **Contact**  
 
-💌 I love collaborating with other developers and learning about new technologies and ideas. Let’s connect!  
+I love collaborating with other developers and am always eager to learn new technologies and ideas. Feel free to connect with me on LinkedIn!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/monikaydv/)  
+📧 **Email:** [moniydv@gmail.com]  
+🔗 **LinkedIn:** [Monika Yadav LinkedIn](https://www.linkedin.com/in/monikaydv/)  
+
 <!--
 **moniydv/moniydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
