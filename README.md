@@ -1,14 +1,9 @@
+# **Hi, I’m Monika Yadav 👋**  
+
 ✨ **Senior Software Developer** with **12+ years of experience** in building enterprise-grade web applications and distributed systems.  
-🚀 Passionate about creating **efficient software architectures**, developing **user-friendly interfaces**, and ensuring **high-performance databases**.
-💡 Currently diving into the fascinating world of **AI/ML** and exploring its integration into innovative software solutions.  
-
----
-
-## **About Me**  
-- 🏆 **Expertise:** Secure API development and scalable architecture design using **Python**, **PHP**, and **.Net**.  
-- 🎨 **Frontend Skills:** Building intuitive and user-friendly interfaces with **React**, **TypeScript/JavaScript**, and **CSS**.  
-- 🔄 **Agile Leader:** Strong background in **agile methodologies** and **project leadership**.  
-- 🚀 **Current Focus:** Actively exploring how **AI/ML** can drive smarter and more efficient solutions.
+💡 Passionate about creating **efficient software architectures**, developing **user-friendly interfaces**, and ensuring **high-performance databases**.
+🔄 Strong background in **agile methodologies** and **project leadership**.
+🚀 **Current Focus**: Actively exploring the fascinating world of **AI/ML** and its integration into innovative software solutions.
 
 ---
 
