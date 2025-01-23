@@ -1,6 +1,12 @@
 ### Hi, I am Monika Yadav 👋
 <p>
-  Full Stack developer with proven track record of delivering large scale web applications in Web application security, Telecom and Biotech domains. I have more than 8 years' experience specialized in frontend and backend development for complex scalable web apps. 
+Currently, exploring the world of AI/ML.
+
+Senior Software Developer | 12+ years building enterprise-grade web applications and distributed systems.
+◾ Expertise in secure API development and scalable architecture design using Python, PHP, .Net.
+◾ Skilled in developing user-friendly interface using React, Typescript/Javascript, CSS.
+◾ Strong background in agile methodologies and project leadership.
+◾ Actively exploring the integration of AI/ML into software solutions.
 </p>
 
 ---
